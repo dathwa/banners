@@ -1,0 +1,14 @@
+td.status1		{background: url("../img/tick-circle.png") no-repeat center center;}
+td.status0	{background: url("../img/cross-circle.png") no-repeat center center;}
+td.status-1	{background: url("../img/delete-circle.png") no-repeat center center;}
+td.area-status-active		{background: url("../img/tick-circle.png") no-repeat center center;}
+td.area-status-inactive	{background: url("../img/cross-small-grey.png") no-repeat center center;}
+
+td.action-to{
+    width:50px;
+    background: url("../img/drag_handle_dark.gif") no-repeat scroll 99% 50%; 
+    cursor: move;
+    margin: 0;
+    padding: 0px 0px 0px 10px;
+ 
+}
