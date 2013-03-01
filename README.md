@@ -1,18 +1,19 @@
-README
-======
+#PyroCMS Banners
 
-What is banners?
-----------------
-a pyrocms module for managing image links on your pages.
+## Description
 
-Features
---------
+A PyroCMS module that lets you manage links on your pages.
+
+##Features
+
 use it for javascript sliders, etc
 
-Requirements
-------------
-pyrocms 2.1.5
+##Requirements
 
-Installation
-------------
-drop the folder into your shared_addons/modules folder
+PyroCMS 2.1.5
+
+## Installation
+
+1. unzip the archive.
+2. rename folder to 'banners'
+3. drop the folder into your shared_addons/modules/ folder
